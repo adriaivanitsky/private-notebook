@@ -40,3 +40,5 @@ The [Redirect (Auth) Example](https://v5.reactrouter.com/web/example/auth-workfl
 | Sign In functionality implemented         | 2.5    |
 
 deploying on netlify
+
+omg deploying this to netlify has been a huge pain in the ass for some reason
